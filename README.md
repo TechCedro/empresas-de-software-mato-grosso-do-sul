@@ -15,7 +15,7 @@ Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca 
 |AZ Informática | Campo Grande |[x](https://www.azi.com.br/) | Vue/Java | |
 | GRS Technologia | Campo Grande | [x](https://www.grstecnologia.com.br/) | | |
 | Rede Tendência | Campo Grande | [x](https://www2.redetendencia.com.br/)| | |
-| | | | | |
+| Blit Softwares | Campo Grande | [x](https://blitsoft.com.br/) | | |
 | | | | | |
 
 
