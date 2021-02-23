@@ -13,7 +13,7 @@ Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca 
 | EOS Consultores  | Campo Grande  | [x](https://www.eosconsultores.com.br/) | | |
 | Before  | Campo Grande | [x](https://before.com.br/) | | |
 |AZ Informática | Campo Grande |[x](https://www.azi.com.br/) | Vue/Java | |
-| GRS Technologia | ampo Grande | [x](https://www.grstecnologia.com.br/) | | |
+| GRS Technologia | Campo Grande | [x](https://www.grstecnologia.com.br/) | | |
 | | | | | |
 | | | | | |
 | | | | | |
