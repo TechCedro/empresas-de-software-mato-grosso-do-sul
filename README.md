@@ -14,7 +14,7 @@ Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca 
 | Before  | Campo Grande | [x](https://before.com.br/) | | |
 |AZ Informática | Campo Grande |[x](https://www.azi.com.br/) | Vue/Java | |
 | GRS Technologia | Campo Grande | [x](https://www.grstecnologia.com.br/) | | |
-| | | | | |
+| Rede Tendência | Campo Grande | [x](https://www2.redetendencia.com.br/)| | |
 | | | | | |
 | | | | | |
 
@@ -26,7 +26,7 @@ Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca 
 
 ## Referências
 
-- (Mato Grosso)[https://github.com/leogregianin/empresas-de-software-mato-grosso]
+- [Mato Grosso](https://github.com/leogregianin/empresas-de-software-mato-grosso)
 - [Empresas com trabalho remoto no Brasil](https://github.com/lerrua/remote-jobs-brazil)
 - [Empresas com trabalho remoto no mundo](https://github.com/remoteintech/remote-jobs)
 
