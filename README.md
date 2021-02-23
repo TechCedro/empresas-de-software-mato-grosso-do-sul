@@ -16,7 +16,18 @@ Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca 
 | GRS Technologia | Campo Grande | [x](https://www.grstecnologia.com.br/) | | |
 | Rede Tendência | Campo Grande | [x](https://www2.redetendencia.com.br/)| | |
 | Blit Softwares | Campo Grande | [x](https://blitsoft.com.br/) | | |
-| | | | | |
+| InfiniteSoft | Campo Grande |[x](http://infinitesoft.com.br/) | | |
+| OK Desenvolvimento de Software | Dourados |[x](http://site.okds.com.br/) | | |
+| Coliseu Sistemas| Dourados |[x](http://coliseusistemas.com.br/) | | |
+| Softgran | Dourados |[x](https://www.softgran.com.br/)| | |
+| Delta Sistemas  | Dourados |[x](https://www.deltasistemas.net/) | | |
+|Softcom| Dourados | [x](http://www.softcom.pro.br/)| | |
+| OM Informática | Dourados | [x](http://ominformatica.com.br/) | | |
+| |  | | | |
+| |  | | | |
+| |  | | | |
+| |  | | | |
+| |  | | | |
 
 
 
