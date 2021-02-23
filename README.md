@@ -1,5 +1,4 @@
 # Empresas e startups de tecnologia da informação Estado do Mato Grosso do Sul (Brasil)
-> nome do repositorio vai ser corrigido em breve
 
 Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca na lista 
 
