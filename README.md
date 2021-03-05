@@ -23,6 +23,7 @@ Conhece uma Empresa, Startup ou Empresa Junior de tecnologia aqui no MS? Coloca 
 | Delta Sistemas  | Dourados |[x](https://www.deltasistemas.net/) | | |
 |Softcom| Dourados | [x](http://www.softcom.pro.br/)| | |
 | OM Informática | Dourados | [x](http://ominformatica.com.br/) | | |
+|  Athena Software | Três Lagoas | [x](https://athenasoftware.com.br/) | | |
 | |  | | | |
 | |  | | | |
 | |  | | | |
